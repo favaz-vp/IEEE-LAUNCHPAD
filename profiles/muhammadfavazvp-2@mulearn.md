@@ -17,6 +17,7 @@
 | ------------------ | ---------------------------- | ------------------------------------------------- | --------------------------------------------------- |
 | **Video Editing Website Frontend** | Done Frontend of a Video Editing Website  | [Hosted Link 1](https://favaz-vp.github.io/todo/) | [Repo Link 1](https://github.com/favaz-vp/todo.git) |
 | **ToDo App** | Todo app using ReactJS | [Hosted Link 2](https://example.com)              | [Repo Link 2](https://github.com/username/project2) |
+| **Blog website** | Platform inviting users to share their captivating narratives and thought-provoking insights with a global audience. using python and Django framework | [Hosted Link 2](https://example.com) | [Repo Link 3](https://github.com/favaz-vp/blogging-website) |
 
 #### Leadership and Influence:
 
